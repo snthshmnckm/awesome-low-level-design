@@ -34,7 +34,7 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 ## 🧩 Design Patterns
 
 | **Creational Patterns**                                                       | **Structural Patterns**                                         | **Behavioral Patterns**                                                               |
-| ----------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| :---------------------------------------------------------------------------: | :-------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
 | [Singleton](https://algomaster.io/learn/lld/singleton)            | [Adapter](https://algomaster.io/learn/lld/adapter)     | [Iterator](https://algomaster.io/learn/lld/iterator)                         |
 | [Factory Method](https://algomaster.io/learn/lld/factory-method)     | [Bridge](https://algomaster.io/learn/lld/bridge)       | [Observer](https://algomaster.io/learn/lld/observer)                         |
 | [Abstract Factory](https://algomaster.io/learn/lld/abstract-factory) | [Composite](https://algomaster.io/learn/lld/composite) | [Strategy](https://algomaster.io/learn/lld/strategy)                         |
@@ -78,7 +78,9 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 - [Reader-Writer Pattern](https://algomaster.io/learn/concurrency-interview/reader-writer-pattern)
 
 ## ✅ [How to Answer a LLD Interview Problem](https://blog.algomaster.io/p/how-to-answer-a-lld-interview-problem)
-<img src="images/interview-template.png" width="350" height="250">
+<p align="center">
+  <img src="images/interview-template.png" width="350" height="250">
+</p>
 
 ## 💻 Low Level Design Interview Problems
 ### Easy Problems
